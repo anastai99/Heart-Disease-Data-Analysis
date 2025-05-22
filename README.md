@@ -1,4 +1,4 @@
-# 🫀 EAS 503: Cardiovascular Health & Stroke Prediction
+# 🫀Cardiovascular Health & Stroke Prediction
 
 ## 📌 Overview
 This project explores the global burden of cardiovascular diseases (CVDs), emphasizing the health disparities in low- and middle-income countries. Using a machine learning approach, we develop predictive models for stroke risk and deploy them via a user-friendly web application.
